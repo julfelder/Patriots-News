@@ -41,6 +41,8 @@ h3 {
   text-align: center;
   word-spacing: 100px;
   color: blue;
+  margin-left: -150px;
+  margin-right: -150px;
 }
 
 h4 {
