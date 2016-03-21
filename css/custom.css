@@ -20,9 +20,7 @@ img{
 }
 
 body{
-  background-image:url(../gillette snow.jpg);
-  width:100%;
-  height:100%;
+  background: url(../gillette snow.jpg) 50% 50% no-repeat;
 }
 .container_12 .grid_4 {
     background-color: white;
