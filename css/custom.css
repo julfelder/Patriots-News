@@ -10,7 +10,8 @@ img{
   padding-top: 10px;
 }
 .heading h3{
-  background-color:white;
+  background-color: white;
+  text-align: center;
 }
 .heading h1{
     text-align: center;
