@@ -11,10 +11,11 @@ img{
 }
 
 .heading h1{
-      text-align: center;
-      color:white;
-      font-size: 50px
-      text-outline: 2px 2px #ff0000;
+    text-align: center;
+    color: white;
+    margin-left: 400px;
+    background-color: #000066;
+    margin-right: 450px;
       
 }
 
