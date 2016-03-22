@@ -28,6 +28,7 @@ h3 img{
 .heading h1{
     text-align: center;
     color: white;
+    display: -webkit-box;
     margin-left: 400px;
     background-color: #000066;
     margin-right: 450px;
