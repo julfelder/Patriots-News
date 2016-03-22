@@ -16,6 +16,10 @@ img{
   width:100%;
   padding-top: 10px;
 }
+.heading img{
+  width=50px;
+  height=20px;
+}
 .heading h3{
   background-color: white;
   text-align: center;
