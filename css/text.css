@@ -44,6 +44,8 @@ h3 {
   color: blue;
   margin-left: -150px;
   margin-right: -150px;
+    margin-bottom: 20px;
+    margin-top: -20px;
 }
 
 h4 {
